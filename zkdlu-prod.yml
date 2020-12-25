@@ -1,2 +1,2 @@
-spring:
-  profiles: product
+hello:
+  world: product
